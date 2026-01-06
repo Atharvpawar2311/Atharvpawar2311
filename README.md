@@ -42,6 +42,7 @@ A passionate Computer Science Engineering Student || Python Developer || AWS Clo
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-blue?logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
 
